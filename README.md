@@ -3,7 +3,8 @@
 
 ## 📌 Project Overview
 This project presents a comprehensive **Sales Analysis Dashboard** built to track and analyze business performance across different territories and product categories. The dashboard provides actionable insights into sales trends, order statuses, and salesperson performance from 2011 to 2014.
-
+![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard 1.png)
 ## 📊 Key Features & Insights
 * **Executive Summary:** High-level KPIs showing Total Freight, Total Due, Total Tax, and Total Amount ($30.0M).
 * **Sales Trends:** A time-series analysis of Order IDs over the years, showing a significant peak in late 2013.

@@ -12,7 +12,7 @@ This project presents a comprehensive **Sales Analysis Dashboard** built to trac
 * **Regional Analysis:** Breakdown of sales by Territory (Canada being a top performer).
 * **Operational Tracking:** Monitoring order status (Approved, Shipped, Cancelled, etc.) to ensure supply chain efficiency.
 * **Salesperson Leaderboard:** Analysis of sales distribution among team members to identify top performers.
-![Dashboard Preview](dashboard 1.png)
+
 ## 🛠️ Tools Used
 * **Power BI / Excel:** For data visualization and dashboard creation.
 * **DAX (Data Analysis Expressions):** Used for creating custom measures and KPIs.
@@ -21,7 +21,7 @@ This project presents a comprehensive **Sales Analysis Dashboard** built to trac
 ## 📷 Screenshots
 dashboard.png
 dashboard 1.png
-
+![Dashboard Preview](dashboard.png)
 
 ## 📂 How to Use
 1. Download the `.pbix` file from this repository.

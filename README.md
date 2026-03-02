@@ -21,7 +21,7 @@ This project presents a comprehensive **Sales Analysis Dashboard** built to trac
 ## 📷 Screenshots
 dashboard.png
 dashboard 1.png
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard 1.png)
 
 ## 📂 How to Use
 1. Download the `.pbix` file from this repository.
